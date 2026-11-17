@@ -40,7 +40,7 @@ function App() {
       {/* the header at the top of the page */}
       <PageHeader
         title="Premier League 2025/26"
-        subtitle="Week 13: search and filters"
+        subtitle="Week 13: search and filters (Vercel Deployed)"
       />
       {/* down: the text; up: the handler SearchBox calls */}
       <SearchBox
